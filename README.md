@@ -1,4 +1,4 @@
-# 💫 About Me: Harshan B
+# 💫 Hi there, I'm Harshan B
 🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on Anything ?<br>🤝 I’m looking for help with nothing tbh<br>⚡ Fun fact - I code
 
 
