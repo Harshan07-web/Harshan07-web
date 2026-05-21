@@ -55,15 +55,15 @@ harshan = {
 
 
 # Stats
-
+ 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Harshan07-web&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Harshan07-web&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshan07-web&theme=tokyonight&hide_border=true&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Harshan07-web&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
+  
+<!--[![Stats](https://github-readme-stats.vercel.app/api?username=Harshan07-web&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800)](https://github.com/Harshan07-web) -->
+ 
+[![Streak](https://streak-stats.demolab.com?user=Harshan07-web&theme=tokyonight&hide_border=true)](https://github.com/Harshan07-web)
+ 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshan07-web&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800)](https://github.com/Harshan07-web) -->
+ 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Harshan07-web&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Harshan07-web)
+ 
 </div>
