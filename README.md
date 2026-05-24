@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshan07-/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharshan17@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Harshan07-web&icon=0&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHarshan07-web&count_bg=%236EE7F7&title_bg=%23555&icon=github&icon_color=%23E7E7E7&title=views&edge_flat=false)
 
 </div>
 
@@ -24,46 +24,53 @@ harshan = {
 
 ---
 
-# Stack
-<div align = "center">
+## Stack
 
-**Languages**<br>
+<div align="center">
+
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Frontend**<br>
+**Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-**Backend**<br>
+**Backend**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-**AI / ML**<br>
+**AI / ML**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-**Databases**<br>
+**Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools**<br>
+**Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
 </div>
 
+---
 
-# Stats
- 
+## Stats
+
 <div align="center">
-  
-<!--[![Stats](https://github-readme-stats.vercel.app/api?username=Harshan07-web&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800)](https://github.com/Harshan07-web) -->
- 
+
 [![Streak](https://streak-stats.demolab.com?user=Harshan07-web&theme=tokyonight&hide_border=true)](https://github.com/Harshan07-web)
- 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshan07-web&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800)](https://github.com/Harshan07-web) -->
- 
+
+</div>
+
+<div align="center">
+
+[![Stats](https://github-readme-stats-r1d2bfgjq-hommie-s-projects.vercel.app/api?username=Harshan07-web&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/Harshan07-web)
+
+[![Top Langs](https://github-readme-stats-r1d2bfgjq-hommie-s-projects.vercel.app/api/top-langs/?username=Harshan07-web&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/Harshan07-web)
+
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Harshan07-web&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Harshan07-web)
- 
+
 </div>
