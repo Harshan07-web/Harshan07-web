@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshan07-/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharshan17@gmail.com)
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHarshan07-web&count_bg=%236EE7F7&title_bg=%23555&icon=github&icon_color=%23E7E7E7&title=views&edge_flat=false)
+
 
 </div>
 
@@ -67,9 +67,9 @@ harshan = {
 
 <div align="center">
 
-[![Stats](https://github-readme-stats-r1d2bfgjq-hommie-s-projects.vercel.app/api?username=Harshan07-web&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/Harshan07-web)
+[![Stats](https://github-readme-stats-kappa-ten-80.vercel.app/api?username=Harshan07-web&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/Harshan07-web)
 
-[![Top Langs](https://github-readme-stats-r1d2bfgjq-hommie-s-projects.vercel.app/api/top-langs/?username=Harshan07-web&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/Harshan07-web)
+[![Top Langs](https://github-readme-stats-kappa-ten-80.vercel.app/api/top-langs/?username=Harshan07-web&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/Harshan07-web)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Harshan07-web&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/Harshan07-web)
 
