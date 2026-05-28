@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**`CODING to BUILD, BUILDING to LEARN, LEARNING to CODE`**
+**`LEARNING to CODE, CODING to BUILD, BUILDING to LEARN`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshan07-/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharshan17@gmail.com)
